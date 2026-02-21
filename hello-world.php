@@ -31,7 +31,14 @@ My real name is    <?php echo $name; ?>
 //  $arr = ["numi", "simmi", "silpi"];
 //  echo var_dump($arr);
 
- echo 10+10
+//  echo 10+10
+?>
+
+
+
+<?php
+echo "<h1>Hello World!!</h1>";
+echo "<h2>So, Today I Learned PHP</h2>"
 ?>
 
 
